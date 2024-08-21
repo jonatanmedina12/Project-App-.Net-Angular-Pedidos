@@ -1,0 +1,12 @@
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\bin\Debug\net6.0\Models.deps.json
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\bin\Debug\net6.0\Models.dll
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\bin\Debug\net6.0\Models.pdb
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\obj\Debug\net6.0\Models.dll
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\obj\Debug\net6.0\Models.pdb
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Models\obj\Debug\net6.0\ref\Models.dll

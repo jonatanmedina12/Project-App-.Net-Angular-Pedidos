@@ -1,0 +1,17 @@
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\bin\Debug\net6.0\Data.deps.json
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\bin\Debug\net6.0\Data.dll
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\bin\Debug\net6.0\Data.pdb
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\bin\Debug\net6.0\Models.dll
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\bin\Debug\net6.0\Models.pdb
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\obj\Debug\net6.0\Data.dll
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\obj\Debug\net6.0\Data.pdb
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Repositorio\Project-Ordenes-Pedidos\Back-End-Pedidos\Data\obj\Debug\net6.0\ref\Data.dll

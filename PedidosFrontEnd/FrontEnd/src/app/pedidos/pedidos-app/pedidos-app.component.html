@@ -1,0 +1,45 @@
+<div class="form-container">
+    <h2>Crear Pedido</h2>
+    <form (ngSubmit)="enviarPedido()">
+      <fieldset>
+        <legend>Cliente</legend>
+        <label for="clienteNombre">Nombre del Cliente:</label>
+        <input id="clienteNombre" [(ngModel)]="pedido.cliente.nombre" name="clienteNombre" required>
+  
+        <label for="clienteDireccion">Dirección del Cliente:</label>
+        <input id="clienteDireccion" [(ngModel)]="pedido.cliente.direccion" name="clienteDireccion" required>
+      </fieldset>
+  
+      <fieldset>
+        <legend>Productos</legend>
+        <div *ngFor="let producto of pedido.productos; let i = index">
+          <label for="productoCodigo{{i}}">Código:</label>
+          <input id="productoCodigo{{i}}" [(ngModel)]="producto.codigo" name="productoCodigo{{i}}" required>
+  
+          <label for="productoNombre{{i}}">Nombre:</label>
+          <input id="productoNombre{{i}}" [(ngModel)]="producto.nombre" name="productoNombre{{i}}" required>
+  
+          <label for="productoValorUnitario{{i}}">Valor Unitario:</label>
+          <input id="productoValorUnitario{{i}}" [(ngModel)]="producto.valorUnitario" name="productoValorUnitario{{i}}" type="number" required>
+  
+          <label for="productoCantidad{{i}}">Cantidad:</label>
+          <input id="productoCantidad{{i}}" [(ngModel)]="producto.cantidad" name="productoCantidad{{i}}" type="number" required>
+  
+          <button type="button" (click)="eliminarProducto(i)">Eliminar Producto</button>
+        </div>
+        <button type="button" (click)="agregarProducto()">Agregar Producto</button>
+      </fieldset>
+  
+      <label for="fechaRegistro">Fecha de Registro:</label>
+      <input id="fechaRegistro" [(ngModel)]="pedido.fechaRegistro" name="fechaRegistro" type="date" required>
+  
+      <label for="estado">Estado:</label>
+      <input id="estado" [(ngModel)]="pedido.estado" name="estado" required>
+  
+      <label for="direccionEntrega">Dirección de Entrega:</label>
+      <input id="direccionEntrega" [(ngModel)]="pedido.direccionEntrega" name="direccionEntrega" required>
+  
+      <button type="submit">Enviar Pedido</button>
+    </form>
+  </div>
+  
