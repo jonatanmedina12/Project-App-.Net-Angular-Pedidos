@@ -1,12 +1,12 @@
-Ordenes app  App
+# Ordenes app  App
 Descripción
 
 La aplicación está desarrollada utilizando .NET Core en el backend, Angular en el frontend, y SQL Server como base de datos.
 
-Características
+# Características
 Gestión de Médicos: solo insertart datos 
 
-Tecnologías Utilizadas
+# Tecnologías Utilizadas
 Backend:
 
 .NET Core 6.0
@@ -31,7 +31,7 @@ Angular CLI
 Docker (opcional):
 
 Docker 20.x o superior
-Instalación
+# Instalación
 Backend
 Clona este repositorio:
 git clone https://github.com/jonatanmedina12/Project-Ordenes-Pedidos.git
